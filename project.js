@@ -2,7 +2,7 @@ const project = {
 title: "Shared Project",
 status: "draft",
 theme: "light",
-language: "es",
+language: "international",
 itemsPerPage: 10,
 welcomeMessage: "Welcome",
 dateFormat: "DD.MM.YYYY",
